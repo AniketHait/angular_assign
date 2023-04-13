@@ -1,0 +1,37 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "name": "employer 1",
+       "job":"Description",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "name": "employer 2",
+      "job": "Description",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "name": "Candidate3",
+      "job": "Description",
+      "reminder": true
+    }
+  ],
+    "Application":[
+        {
+            "id":2,
+             "applied":[
+                {
+                    "id": 11,
+                    "name":"candidate1",
+                    "job": "applied",
+                    "reminder":true
+
+                }
+             ]
+        }
+    ]
+   
+}
